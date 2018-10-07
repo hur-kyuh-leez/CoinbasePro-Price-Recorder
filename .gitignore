@@ -71,6 +71,4 @@ lib/
 #files
 PRIVATE_INFO.py
 .DS_Store
-include/
-lib/
 _binance_/
