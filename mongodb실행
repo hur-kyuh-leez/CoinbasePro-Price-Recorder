@@ -1,0 +1,5 @@
+mongodb 외부 아이피가 접속 할 수 있도록 만들기
+
+mongod --bind_ip 0.0.0.0 -v
+
+https://stackoverflow.com/questions/18412850/cannot-connect-to-mongodb-using-machine-ip
